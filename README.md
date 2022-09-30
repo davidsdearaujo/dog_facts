@@ -3,6 +3,8 @@ App to show curious facts about dogs.
 
 It's an example to help beginners in creating a new project using `Stores`, `Controllers` and `Pages`. 
 
+https://user-images.githubusercontent.com/16373553/193313290-df2b61e9-2d25-497f-a931-83f75b9f6d94.mov
+
 ## A Flutter project made using:
 - **Flutter** _(v3.3.2)_
 
