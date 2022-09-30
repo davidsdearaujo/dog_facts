@@ -1,0 +1,31 @@
+name: dog_facts
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: 3.3.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_modular: ^5.0.3
+  dio: ^4.0.6
+  flutter_triple: ^1.2.7+2
+  loading_animation_widget: ^1.1.0+3
+  shimmer: ^2.0.0
+  just_audio: ^0.9.20
+  html: ^0.15.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+  
+flutter:
+  uses-material-design: true
